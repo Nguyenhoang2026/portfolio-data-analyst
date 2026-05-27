@@ -1,14 +1,25 @@
-# Portfolio – Céline Hoang‑Dung Nguyen | Business Data Analyst
-Skill: SQL, Power BI (DAX/Power Query), SAS, Python
+# Céline Hoang-Dung Nguyen – Data Analyst Portfolio
+Business/Data Analyst with skills in SQL, Power BI, Python, and SAS.
 
 ## Document
 - CV (PDF): CV_Celine_Nguyen_DA.pdf
 
 
-## Power BI
--  powerbi/Portfolio_Data_Anal.pbix
-- Demo Powwer BI 27052026.pdf (source peut-etre confidental)
-- File PBIX: Demo PBI Nguyen Hoang Dung Examen
-- File PBIX: Projet Température Terrestre NGUYEN Hoang Dung
+### Power BI Dashboard  - Demo Powwer BI 27052026.pdf (sample/anonymized dataset)
+- Interactive KPI dashboard
+- Revenue and sales analysis
+- Built with Power BI and DAX
+  
+### File PBIX: Demo PBI Nguyen Hoang Dung
 
-Contact: 07 64 48 83 46 · celinenguyen129@gmail.com · LinkedIn: https://www.linkedin.com/in/hoang-dung-nguyen-9b7349155/
+### Climate Temperature Analysis - File PBIX: Projet Température Terrestre NGUYEN Hoang Dung
+- Statistical analysis of temperature trends
+- Data cleaning and visualization
+
+
+## Contact
+
+- Email: celinenguyen129@gmail.com
+- Num portable +33 07 64 48 83 46
+- Mail celinenguyen129@gmail.com
+- LinkedIn: https://www.linkedin.com/in/hoang-dung-nguyen-9b7349155/
