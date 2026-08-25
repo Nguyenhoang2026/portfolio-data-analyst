@@ -1,4 +1,4 @@
-# Céline Hoang-Dung Nguyen – Data Analyst Portfolio
+# Hoang-Dung Nguyen – Data Analyst Portfolio
 Business/Data Analyst with skills in SQL, Power BI, Python, and SAS.
 
 ## Document
