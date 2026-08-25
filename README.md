@@ -5,7 +5,7 @@ Business/Data Analyst with skills in SQL, Power BI, Python, and SAS.
 - CV (PDF): CV NGUYEN Data Analyst Paris.pdf
 
 
-### Power BI Dashboard  - Demo Powwer BI 27052026.pdf (sample/anonymized dataset)
+### Power BI Dashboard  - Portfolio_PowerBI_Nguyen.pdf (sample/anonymized dataset)
 - Interactive KPI dashboard
 - Revenue and sales analysis
 - Built with Power BI and DAX
