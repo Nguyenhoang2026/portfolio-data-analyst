@@ -2,7 +2,7 @@
 Business/Data Analyst with skills in SQL, Power BI, Python, and SAS.
 
 ## Document
-- CV (PDF): CV_Celine_Nguyen_DA.pdf
+- CV (PDF): CV NGUYEN Data Analyst Paris.pdf
 
 
 ### Power BI Dashboard  - Demo Powwer BI 27052026.pdf (sample/anonymized dataset)
