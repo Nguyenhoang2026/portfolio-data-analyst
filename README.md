@@ -19,7 +19,6 @@ Business/Data Analyst with skills in SQL, Power BI, Python, and SAS.
 
 ## Contact
 
-- Email: celinenguyen129@gmail.com
+- Email: hoangdung.nguyen090@gmail.com
 - Num portable +33 07 64 48 83 46
-- Mail celinenguyen129@gmail.com
 - LinkedIn: https://www.linkedin.com/in/hoang-dung-nguyen-9b7349155/
